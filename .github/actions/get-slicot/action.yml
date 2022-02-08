@@ -1,0 +1,12 @@
+name: 'Get SLICOT distribution'
+description: 'make examples etc. available for testing'
+
+runs:
+  using: 'composite'
+  steps:
+    - run: wget https://github.com/SLICOT/SLICOT-Reference/archive/refs/tags/v5.7.tar.gz
+      shell: bash
+    - run: tar xzf v5.7.tar.gz
+      shell: bash
+    - run: ln -s $(pwd)/SLICOT-Reference-5.7 ./test/SLICOT-Reference
+      shell: bash
