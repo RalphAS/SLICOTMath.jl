@@ -1,0 +1,11 @@
+name = "SLICOTMath"
+uuid = "9d1a7225-0961-444f-a223-3a3409dec5dd"
+version = "0.1.0"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SLICOT_jll = "545525a2-e20e-568b-b87f-b40a06098995"
+
+[compat]
+julia = "1"
