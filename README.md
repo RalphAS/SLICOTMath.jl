@@ -1,6 +1,6 @@
 # SLICOTMath
 [![GitHub CI Build Status](https://github.com/RalphAS/SLICOTMath.jl/workflows/CI/badge.svg)](https://github.com/RalphAS/SLICOTMath.jl/actions)
-[![Coverage Status](http://codecov.io/github/RalphAS/SLICOTMath.jl/coverage.svg?branch=master)](http://codecov.io/github/RalphAS/SLICOTMath.jl?branch=master)
+[![Coverage Status](http://codecov.io/github/RalphAS/SLICOTMath.jl/coverage.svg?branch=main)](http://codecov.io/github/RalphAS/SLICOTMath.jl?branch=main)
 
 # Introduction
 This package provides Julia wrappers for some routines in the SLICOT library,

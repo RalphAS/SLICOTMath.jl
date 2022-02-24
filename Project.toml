@@ -9,3 +9,5 @@ SLICOT_jll = "545525a2-e20e-568b-b87f-b40a06098995"
 
 [compat]
 julia = "1"
+DocStringExtensions = "0.8"
+SLICOT_jll = "5.7"
