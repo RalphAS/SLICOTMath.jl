@@ -1,6 +1,6 @@
 name = "SLICOTMath"
 uuid = "9d1a7225-0961-444f-a223-3a3409dec5dd"
-version = "0.1.0"
+version = "0.1.1-DEV"
 
 [deps]
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
